@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kelime Oyunu Uygulaması</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#about">Oyun Hakkında</a>
+            <a href="#how-to-play">Nasıl Oynanır?</a>
+            <a href="#screenshots">Ekran Görüntüleri</a>
+            <a href="#contact">İletişim</a>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <h1>Kelime Oyunu Uygulaması</h1>
+            <p>
+                Oyun hakkında etkileyici bir mesaj veya açıklama metni buraya gelebilir.
+            </p>
+            <a href="#download" class="cta-button">Oyunu İndir</a>
+        </section>
+        <section id="about">
+            <h2>Oyun Hakkında</h2>
+            <p>
+                Oyununuzun detaylı açıklama metni buraya gelebilir. Özellikleri, hedef kitlesi ve oynanış hakkında bilgiler ekleyebilirsiniz.
+            </p>
+        </section>
+        <section id="how-to-play">
+            <h2>Nasıl Oynanır?</h2>
+            <p>
+                Oyunun nasıl oynandığına dair detaylı açıklama metni buraya gelebilir.
+            </p>
+        </section>
+        <section id="screenshots">
+            <h2>Ekran Görüntüleri</h2>
+            <!-- Oyunun ekran görüntüleri veya demo videolarını buraya ekleyebilirsiniz -->
+        </section>
+        <section id="contact">
+            <h2>İletişim</h2>
+            <p>
+                Oyununuzu indirmek veya daha fazla bilgi almak için bize ulaşın.
+                Email: info@kelimeoyunu.com
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Kelime Oyunu Uygulaması</p>
+    </footer>
+</body>
+</html>
